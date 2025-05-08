@@ -1,5 +1,9 @@
 # Adapter CSV Reader
 
+## Alunos
+- Ricardo Francisco da Silva Filho - 220199572
+- João Antônio Garcia Rolo - 220143992 
+
 ## Classe Pessoa
 Classe criada com o objetivo de mapear a Entidade Pessoa para termos um construtor e conseguirmos instanciar objetos desta classe com as informações que vem arquivo .csv.
 
